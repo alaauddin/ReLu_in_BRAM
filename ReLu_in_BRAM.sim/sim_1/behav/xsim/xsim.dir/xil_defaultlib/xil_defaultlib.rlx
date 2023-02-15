@@ -1,0 +1,8 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/Users/User/ACTIVATION FUNCTION/ReLu_in_BRAM/ReLu_in_BRAM.gen/sources_1/ip/blk_mem_gen_0/sim/blk_mem_gen_0.v,1676408372,verilog,,C:/Users/User/ACTIVATION FUNCTION/ReLu_in_BRAM/ReLu_in_BRAM.srcs/sources_1/new/ReLu.v,,blk_mem_gen_0,,,,,,,,
+C:/Users/User/ACTIVATION FUNCTION/ReLu_in_BRAM/ReLu_in_BRAM.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+C:/Users/User/ACTIVATION FUNCTION/ReLu_in_BRAM/ReLu_in_BRAM.srcs/sim_1/new/TB.v,1676408493,verilog,,,,TB,,,,,,,,
+C:/Users/User/ACTIVATION FUNCTION/ReLu_in_BRAM/ReLu_in_BRAM.srcs/sources_1/new/ReLu.v,1676408415,verilog,,C:/Users/User/ACTIVATION FUNCTION/ReLu_in_BRAM/ReLu_in_BRAM.srcs/sim_1/new/TB.v,,ReLu,,,,,,,,
